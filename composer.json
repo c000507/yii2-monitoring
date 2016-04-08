@@ -1,0 +1,21 @@
+{
+    "name": "petcloud/petcloud-monitoring",
+    "description": "Monitoring for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Charles Galvin",
+            "email": "charles@petcloud.com.au"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "petcloud\\monitoring\\": ""
+        }
+    }
+}
