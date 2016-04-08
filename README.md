@@ -1,4 +1,4 @@
-PetCloud Monitoring
+Yii2 Monitoring
 ===================
 Monitoring for Yii2
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist petcloud/petcloud-monitoring "*"
+php composer.phar require --prefer-dist cgg507/yii2-monitoring "*"
 ```
 
 or add
 
 ```
-"petcloud/petcloud-monitoring": "*"
+"cgg507/yii2-monitoring": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \petcloud\monitoring\AutoloadExample::widget(); ?>```
+<?= \cgg507\monitoring\AutoloadExample::widget(); ?>```

@@ -1,5 +1,5 @@
 {
-    "name": "petcloud/petcloud-monitoring",
+    "name": "cgg507/yii2-monitoring",
     "description": "Monitoring for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Charles Galvin",
-            "email": "charles@petcloud.com.au"
+            "email": "charles@c2dev.com.au"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "petcloud\\monitoring\\": ""
+            "cgg507\\monitoring\\": ""
         }
     }
 }

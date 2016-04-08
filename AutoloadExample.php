@@ -1,6 +1,6 @@
 <?php
 
-namespace petcloud\monitoring;
+namespace cgg507\monitoring;
 
 /**
  * This is just an example.
